@@ -4,9 +4,9 @@ import StarDisplay from './StarDisplay'
 import PlayAgain from './PlayAgain'
 import { utils } from '../Common/utils'
 
-function useGameState() [
-
-]
+function useGameState() {
+    
+}
 
 class Game extends React.Component {
     constructor(props) {
